@@ -7,7 +7,7 @@ const dbOptions = {
     host: 'localhost',
     port: 3306,
     user: 'root',
-    password: '98120772627',
+    password: '',
     database: 'renovadosCVC'
 }
 
