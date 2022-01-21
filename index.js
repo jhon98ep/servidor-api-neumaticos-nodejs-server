@@ -8,7 +8,7 @@ const dbOptions = {
     port: 3306,
     user: 'root',
     password: '',
-    database: 'renovadosCVC'
+    database: 'medidas'
 }
 
 const app = express()
